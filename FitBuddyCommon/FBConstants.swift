@@ -28,8 +28,10 @@ public class FBConstants {
     public static let kCOLOR_GRAY_t = UIColor.init(red:173.0/255.0, green:175.0/255.0, blue:178.0/255.0, alpha:0.8)
     public static let kCOLOR_LTGRAY = UIColor.init(red:239.0/255.0, green:239.0/255.0, blue:244.0/255.0, alpha:1)
     public static let kCOLOR_DKGRAY = UIColor.init(red:109.0/255.0, green:109.0/255.0, blue:114.0/255.0, alpha:1)
-    
-    
+    public static let GYMBUDDY_GREEN = UIColor.init(red:39.0/255.0, green:179.0/255.0, blue:89.0/255.0, alpha:1)
+    public static let GYMBUDDY_YELLOW = UIColor.init(red:250.0/255.0, green:145.0/255.0, blue:61.0/255.0, alpha:1)
+    public static let GYMBUDDY_RED = UIColor.init(red:222.0/255.0, green:11.0/255.0, blue:25.0/255.0, alpha:1)
+
     // DEBUG - Defined in Xcode project settings
     public static let DEBUG = true
     
